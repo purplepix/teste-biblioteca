@@ -3,5 +3,5 @@ exports.hello = function() {
 }
 
 exports.helloPeople = function(name) {
-  console.log('Hello,' + name + '!');
+  console.log('Hello, ' + name + '!');
 }
