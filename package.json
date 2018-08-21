@@ -1,0 +1,22 @@
+{
+  "name": "teste-biblioteca",
+  "version": "1.0.0",
+  "description": "Publicando no npm pela primeira vez.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciapsilva/teste-biblioteca.git"
+  },
+  "author": "Marcia Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciapsilva/teste-biblioteca/issues"
+  },
+  "homepage": "https://github.com/marciapsilva/teste-biblioteca#readme"
+}
